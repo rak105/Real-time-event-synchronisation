@@ -1,0 +1,5 @@
+{
+  "name": "SyncOrder: Real-Time Ordering Engine",
+  "description": "A real-time event synchronization engine for online ordering systems, featuring live status updates and multi-user coordination.",
+  "requestFramePermissions": []
+}
